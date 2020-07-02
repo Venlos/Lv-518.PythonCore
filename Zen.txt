@@ -7,8 +7,17 @@ Zen of Python!!!
 5.
 6.
 7.
+<<<<<<< HEAD
 8.
+9. Although practicality beats purity.
+=======
+8.Special cases aren't special enough to break the rules.
 9.
+<<<<<<< HEAD
 10. Unless explicitly silenced.
-11.
+=======
+>>>>>>> 32fdaebf69d09b6e41ee9301316b8b74f31c9dea
+10.
+>>>>>>> 41905a02f8b6706eeaf3ea5346c6f2cf93705291
+11. Unless explicitly silenced.
 12.
