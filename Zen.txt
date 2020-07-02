@@ -11,4 +11,4 @@ Zen of Python!!!
 9.
 10.
 11.
-12.
+12.Namespaces are one honking great idea -- let's do more of those!
