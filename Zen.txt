@@ -9,6 +9,6 @@ Zen of Python!!!
 7.
 8.
 9.
-10.
+10. Unless explicitly silenced.
 11.
 12.
