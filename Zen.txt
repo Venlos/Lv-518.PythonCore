@@ -4,19 +4,19 @@ Zen of Python!!!
 2. Explicit is better than implicit.
 3.
 4.
-5.
+5.Flat is better than nested.
 6.
 7.
-<<<<<<< HEAD
-8.
-9. Although practicality beats purity.
-=======
 8.Special cases aren't special enough to break the rules.
+<<<<<<< HEAD
 9.
 <<<<<<< HEAD
 10. Unless explicitly silenced.
 =======
 >>>>>>> 32fdaebf69d09b6e41ee9301316b8b74f31c9dea
+=======
+9. Although practicality beats purity.
+>>>>>>> 7c669c6bdd3372a99fe1e098b17d214e025364e6
 10.
 >>>>>>> 41905a02f8b6706eeaf3ea5346c6f2cf93705291
 11. Unless explicitly silenced.
