@@ -21,7 +21,7 @@ Zen of Python!!!
 19.
 20.Namespaces are one honking great idea -- let's do more of those
 21.Explicit is better than implicit.
-22.
+22.This document has been placed in the public domain.
 23.Unless explicitly silenced.
 24.Namespaces are one honking great idea -- let's do more of those!
 
