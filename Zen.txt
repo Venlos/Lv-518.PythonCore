@@ -1,14 +1,15 @@
 Zen of Python!!!
 
-1.
-2. Explicit is better than implicit.
-3.
-4.
+1.Beautiful is better than ugly.
+2.Explicit is better than implicit.
+3.Simple is better than implicit.
+4.Complex is better than complicated.
 5.Flat is better than nested.
-6.
-7.
+6.Sparse is better than dense.
+7.Readability counts.
 8.Special cases aren't special enough to break the rules.
-9. Although practicality beats purity.
-10.
-11.
-12.
+9.Although practicality beats purity.
+10.Errors should never pass silently.
+11.Unless explicitly silenced.
+12.Namespaces are one honking great idea -- let's do more of those!
+17.If the implementation is hard to explain, it's a bad idea.
