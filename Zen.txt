@@ -13,7 +13,7 @@ Zen of Python!!!
 11.Unless explicitly silenced.
 12.Namespaces are one honking great idea -- let's do more of those!
 13.
-14.
+14.Explicit is better than implicit.
 15.Simple is better than implicit.
 16.
 17.If the implementation is hard to explain, it's a bad idea.
