@@ -25,4 +25,5 @@ Zen of Python!!!
 21.
 22.
 23.Unless explicitly silenced.
+24.Namespaces are one honking great idea -- let's do more of those!
 
